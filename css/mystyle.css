@@ -1,0 +1,38 @@
+.img-profile {
+    width: 55%; max-width: 55%;
+}
+
+.list-account-menu a:hover {
+    color: #ffc107;
+    background-color: #6c757d;
+}
+
+#bg-header-section {
+    background-image: url("../img/wine-cups_01.jpg");
+	min-height:500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow:inset 0 0 0 2000px rgba(30, 0, 0, 0.6);
+}
+
+#bg-wine-section {
+    background-image: url("../img/wines_01.jpg");
+	min-height:500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow:inset 0 0 0 2000px rgba(30, 0, 0, 0.6);
+}
+
+#bg-delicatessen-section {
+    background-image: url("../img/delicatessen_01.jpg");
+	min-height:500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow:inset 0 0 0 2000px rgba(30, 0, 0, 0.6);
+}
